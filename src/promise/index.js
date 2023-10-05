@@ -17,5 +17,5 @@ countCows.then((result) => {
 }).catch((error) => {
     console.log(error);
 }).finally(()=>{
-console.log]("finish count");
+console.log("finish count");
 });
